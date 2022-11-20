@@ -15,3 +15,6 @@ Automate updating catalog information
 * Generate a PDF using Python
 * Automatically send a PDF by email
 * Write a script to check the health status of the system
+
+This is how the site will look like, when you finish writing some information about fruits
+https://prnt.sc/o5DeaXqNrSQ_
