@@ -18,4 +18,4 @@ Automate updating catalog information
 
 This is how the site will look like, when you finish writing some information about fruits
 (https://prnt.sc/o5DeaXqNrSQ_)
-(![example](https://user-images.githubusercontent.com/106534212/202902846-a90139a9-3fbb-4813-91c9-1c8263ebe6b1.png))
+![example](https://user-images.githubusercontent.com/106534212/202902846-a90139a9-3fbb-4813-91c9-1c8263ebe6b1.png)
